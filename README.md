@@ -1,7 +1,14 @@
+# luismmadeirac
+
 ### Hi there 👋
 
+I'm Software engineer from Switzerland.
+
+### Contact Information:
+- 📫 Email: `eng.luismadeira <at> icloud.com`
+
 <!--
-**luismmadeirac/luismmadeirac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Fun fact:
 
 Here are some ideas to get you started:
 
