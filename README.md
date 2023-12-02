@@ -5,7 +5,7 @@
 I'm Software engineer from Switzerland.
 
 ### Contact Information:
-- 📫 Email: `eng.luismadeira <at> icloud.com`
+- 📫 Email: <a href="malito:eng.luismadeira@icloud.com">eng.luismadeira@icloud.com</a>
 
 <!--
 ### ⚡ Fun fact:
