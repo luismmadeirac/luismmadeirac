@@ -5,7 +5,7 @@
 
 I'm a software engineer from Switzerland, building tools and products to make every day development for devs easier and faster.
 
-## Certifications
+## Certifications & Partners
 
 [<img width="64px" align="left" alt="Cloud Quest - Cloud Practitioner" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" />]()
 
@@ -18,7 +18,5 @@ I'm a software engineer from Switzerland, building tools and products to make ev
 [<img width="64px" align="left" alt="Solutions Architect - Associate" src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/66645df90de3867804d2ec04_AWS%20Solutions%20Architect.png" />]()
 
 [<img width="64px" align="left" alt="Database Speciality" src="https://www.pooyan.info/img/certificates/aws_certified_database_specialty_badge.png" />]()
-
-## Partners
 
 [<img width="64px" align="left" alt="AWS Partner" src="https://images.credly.com/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png" />]()
