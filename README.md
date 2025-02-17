@@ -7,7 +7,7 @@
 
 I'm a software engineer from Switzerland, building tools and products to make every day development for devs easier and faster.
 
-- 📫 Email: <a href="malito:eng.luismadeira@icloud.com">eng.luismadeira@icloud.com</a>
+- [📫 Email](malito:eng.luismadeira@icloud.com)
 
 ## Projects
 
