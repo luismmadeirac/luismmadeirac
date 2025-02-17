@@ -30,4 +30,4 @@ I'm a software engineer from Switzerland, building tools and products to make ev
 
 ## Partners
 
-<img with="56px" align="left" alt="AWS Partner" src="https://images.credly.com/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png" />
+<img width="56px" align="left" alt="AWS Partner" src="https://images.credly.com/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png" />
