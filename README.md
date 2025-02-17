@@ -18,6 +18,8 @@ I'm a software engineer from Switzerland, building tools and products to make ev
 [<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />](https://www.docker.com/)
 [<img align="left" alt="Framer motion" width="26px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />](https://www.framer.com/motion/)
 
+---
+
 ## Certifications
 
 <img width="56px" align="left" alt="Cloud Quest - Cloud Practitioner" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" />
@@ -26,7 +28,8 @@ I'm a software engineer from Switzerland, building tools and products to make ev
 <img width="56px" align="left" alt="Cloud Practitioner" src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge.png" />
 <img width="56px" align="left" alt="Solutions Architect - Associate" src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/66645df90de3867804d2ec04_AWS%20Solutions%20Architect.png" />
 <img width="56px" align="left" alt="Database Speciality" src="https://www.pooyan.info/img/certificates/aws_certified_database_specialty_badge.png" />
-<img width="56px" align="left" alt="" src="" />
+
+---
 
 ## Partners
 
