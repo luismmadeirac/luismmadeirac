@@ -15,8 +15,8 @@ I'm a software engineer from Switzerland, building tools and products to make ev
 
 ## Technologies
 
-[<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />](https://www.docker.com/)
-[<img align="left" alt="Framer motion" width="26px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />](https://www.framer.com/motion/)
+<img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
+<img align="left" alt="Framer motion" width="26px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />
 
 ### Certifications
 
