@@ -5,20 +5,6 @@
 
 Just a guy from Switzerland, trying to make development easier for folks all over the world and develop massive, scalable projects. Focused on crafting really awesome, performant, and resilient software.
 
-## Tech
-
-[<img width="48px" align="left" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />]()
-
-[<img width="48px" align="left" alt="C" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKZdbmTKy7h3cd-gxj7dKBQpTUJkt5tpmtQ&s " />]()
-
-[<img width="48px" align="left" alt="NodeJS" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" />]()
-
-[<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />]()
-
-[<img width="48px" align="left" alt="React" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />]()
-
-[<img width="48px" align="left" alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />]()
-
 ## Certifications & Partners
 
 [<img width="64px" align="left" alt="Cloud Practitioner" src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge.png" />]()
@@ -34,3 +20,19 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 [<img width="64px" align="left" alt="Cloud Quest - Solutions Architect" src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" />]()
 
 [<img width="64px" align="left" alt="Apollo Graph Associate" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />]()
+
+<break></break>
+<break></break>
+
+## Tech
+
+[<img width="48px" align="left" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />]()
+[<img width="48px" align="left" alt="C" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKZdbmTKy7h3cd-gxj7dKBQpTUJkt5tpmtQ&s " />]()
+
+[<img width="48px" align="left" alt="NodeJS" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" />]()
+
+[<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />]()
+
+[<img width="48px" align="left" alt="React" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />]()
+
+[<img width="48px" align="left" alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />]()
