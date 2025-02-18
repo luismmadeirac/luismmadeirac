@@ -17,8 +17,6 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 
 [<img width="48px" align="left" alt="React" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />](http://madeiraluis.com)
 
-[<img width="48px" align="left" alt=
-
 ## Certifications & Partners
 
 [<img width="64px" align="left" alt="Cloud Practitioner" src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge.png" />](http://madeiraluis.com)
