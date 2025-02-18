@@ -7,28 +7,29 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 
 ## Tech
 
-[<img width="48px" align="left" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />](http://madeiraluis.com/)
+[<img width="48px" align="left" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png"/>](http://madeiraluis.com/)
 
-[<img width="48px" align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />](http://madeiraluis.com)
+[<img width="48px" align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"/>](http://madeiraluis.com)
 
-[<img width="48px" align="left" alt="NodeJS" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" />](http://madeiraluis.com)
+[<img width="48px" align="left" alt="NodeJS" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png"/>](http://madeiraluis.com)
 
-[<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />](http://madeiraluis.com)
+[<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>](http://madeiraluis.com)
 
-[<img width="48px" align="left" alt="React" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />](http://madeiraluis.com)
+[<img width="48px" align="left" alt="React" src="[https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png](https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png)"/>](http://madeiraluis.com)
+
 
 ## Certifications & Partners
 
-[<img width="64px" align="left" alt="Cloud Practitioner" src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Cloud Practitioner" src="https://www.sunsetlearning.com/wp-content/uploads/2022/06/AWS-Certified-Cloud-Practitioner_badge.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="Solutions Architect - Associate" src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/66645df90de3867804d2ec04_AWS%20Solutions%20Architect.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Solutions Architect - Associate" src="https://cdn.prod.website-files.com/64e5d9235951ea488bbccad9/66645df90de3867804d2ec04_AWS%20Solutions%20Architect.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="Database Speciality" src="https://www.pooyan.info/img/certificates/aws_certified_database_specialty_badge.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Database Speciality" src="https://www.pooyan.info/img/certificates/aws_certified_database_specialty_badge.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="AWS Partner" src="https://images.credly.com/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="AWS Partner" src="https://images.credly.com/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="Cloud Quest - Cloud Practitioner" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Cloud Quest - Cloud Practitioner" src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="Cloud Quest - Solutions Architect" src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Cloud Quest - Solutions Architect" src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png"/>](http://madeiraluis.com)
 
-[<img width="64px" align="left" alt="Apollo Graph Associate" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />](http://madeiraluis.com)
+[<img width="64px" align="left" alt="Apollo Graph Associate" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg"/>](http://madeiraluis.com)
