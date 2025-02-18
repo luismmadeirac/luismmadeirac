@@ -46,3 +46,11 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
     <img width="64px" align="left" alt="Cloud Quest - Solutions Architect" src="https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png"/>
     <img width="64px" align="left" alt="Apollo Graph Associate" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg"/>
 </p>
+
+<h3>Where to find me</h3>
+
+<p>
+    <a href="https://github.com/luismmadeira/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://twitter.com/luismadeirac/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/luismmadeirac" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
