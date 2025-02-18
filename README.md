@@ -15,8 +15,6 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 
 [<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"/>](http://madeiraluis.com)
 
-[<img width="48px" align="left" alt="React" src="[https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png](https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png)"/>](http://madeiraluis.com)
-
 
 ## Certifications & Partners
 
