@@ -8,16 +8,15 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 ## Tech
 
 <p>
-    <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />
-    <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/736px-The_C_Programming_Language_logo.svg.png" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
-    <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img width="48" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />
+    <img width="48"alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/736px-The_C_Programming_Language_logo.svg.png" />
+    <img width="48"alt="TypeScript" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" />
+    <img width="48"alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" />
+    <img width="48"alt="Docker" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" />
+    <img width="48"alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
+    <img width="48" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="48"alt="git" src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256" />
+    <img width="48"alt="React" src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-download-in-svg-png-gif-file-formats--logo-brand-logos-pack-company-icons-1597591.png?f=webp&w=256" />
 </p>
 
 <br />
