@@ -21,8 +21,7 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 
 [<img width="64px" align="left" alt="Apollo Graph Associate" src="https://res.cloudinary.com/apollographql/image/upload/v1632844693/badge_sfsiin.svg" />]()
 
-<break></break>
-<break></break>
+more..
 
 ## Tech
 
