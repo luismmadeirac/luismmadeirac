@@ -8,10 +8,15 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 ## Tech
 
 [<img width="48px" align="left" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />]()
+
 [<img width="48px" align="left" alt="C" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKZdbmTKy7h3cd-gxj7dKBQpTUJkt5tpmtQ&s " />]()
+
 [<img width="48px" align="left" alt="NodeJS" src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" />]()
+
 [<img width="48px" align="left" alt="Docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />]()
+
 [<img width="48px" align="left" alt="React" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />]()
+
 [<img width="48px" align="left" alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />]()
 
 ## Certifications & Partners
