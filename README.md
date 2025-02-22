@@ -9,14 +9,15 @@ Just a guy from Switzerland, trying to make development easier for folks all ove
 
 <p>
     <img width="48" alt="Golang" src="https://img.icons8.com/?size=512&id=44442&format=png" />
-    <img width="48"alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/736px-The_C_Programming_Language_logo.svg.png" />
-    <img width="48"alt="TypeScript" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" />
-    <img width="48"alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" />
-    <img width="48"alt="Docker" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" />
-    <img width="48"alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
+    <img width="48" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/736px-The_C_Programming_Language_logo.svg.png" />
+    <img width="48" alt="TypeScript" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" />
+    <img width="48" alt="Nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" />
+    <img width="48" alt="Docker" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" />
+    <img width="48" alt="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />
     <img width="48" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="48"alt="git" src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256" />
-    <img width="48"alt="React" src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-download-in-svg-png-gif-file-formats--logo-brand-logos-pack-company-icons-1597591.png?f=webp&w=256" />
+    <img width="48" alt="git" src="https://cdn.iconscout.com/icon/free/png-256/free-git-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-225996.png?f=webp&w=256" />
+    <img width="48" alt="React" src="https://cdn.iconscout.com/icon/free/png-256/free-react-icon-download-in-svg-png-gif-file-formats--logo-brand-logos-pack-company-icons-1597591.png?f=webp&w=256" />
+    <img width="48" alt="Linux" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />  
 </p>
 
 <br />
