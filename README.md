@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=luismmadeirac&color=brightgreen)
 ![](https://img.shields.io/badge/dynamic/json?label=%E2%AD%90%20Total%20stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fluismmadeirac)
 
-Just a guy from Switzerland, trying to make development easier for folks all over the world and develop massive, scalable projects. Focused on crafting really awesome, performant, and resilient software.
-
 ## Tech
 
 <p>
