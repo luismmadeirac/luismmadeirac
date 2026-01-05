@@ -1,7 +1,6 @@
 ### Luis Madeira
 
-Just a developer passionate about building clean and efficient web applications.
-I enjoy learning new technologies, experimenting with code, and sharing my projects with the community.
+Just a dev passionate about building cool stuff.
 
 Fun Facts:
 
@@ -10,10 +9,6 @@ Fun Facts:
 - Currently addicted to MLB & golf; F1 is starting to lose its appeal
 - I have a 90kg pony (Saint Bernard)
 - I love whisky
-
-Certifications:
-
-* AWS, Azure, Cisco, etc. — way too much money burned on that wagon
 
 Links:
 
